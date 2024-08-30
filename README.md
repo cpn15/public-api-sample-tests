@@ -10,7 +10,7 @@
 
 ## TEST CASES OVERVIEW
 
-Below are the test cases covered for NUMERIFY API. Details such as parameters, steps and expected results are provided on the next section.
+Below are the test cases covered for NUMVERIFY API. Details such as parameters, steps and expected results are provided on the next section.
 
 | **Test Case**                     | **Type**     |
 |---------------------------------- |--------------|
